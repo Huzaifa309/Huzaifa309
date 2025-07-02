@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently sharpening my programming and database skills for roles regarding Software Engineering.
+I am currently working as a C++ backend developer in a tech startup working on critical backend infrastructure. building libraries for different usage of microservices
 
 
 # 💻 Tech Stack:
