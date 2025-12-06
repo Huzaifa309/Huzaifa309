@@ -2,7 +2,7 @@
 I am currently working as a **C++ backend developer** in a tech startup, building critical backend infrastructure and libraries for microservices.
 
 <div align="center">
-    <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%"/>
+    <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="100%"/>
 </div>
 
 ---
@@ -36,14 +36,21 @@ I am currently working as a **C++ backend developer** in a tech startup, buildin
 # 📊 GitHub Stats:
 
 <div align="center">
+
+  <!-- GitHub Stats Card (Working Official Source) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa309&theme=dark&hide_border=false" />
+
+  <br/>
+
+  <!-- Streak Stats (Working Source) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Huzaifa309&theme=dark&hide_border=false" />
+
+  <br/>
+
+  <!-- Top Languages (Working Official Source) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa309&theme=dark&hide_border=false&layout=compact" />
+
 </div>
-
----
-
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Huzaifa309&icon=0&color=0" />
-</p>
 
 ---
 
