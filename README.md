@@ -33,24 +33,6 @@ I am currently working as a **C++ backend developer** in a tech startup, buildin
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Huzaifa309&theme=dark&show_icons=true&hide_border=false" alt="GitHub Stats" />
-
-  <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa309&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa309&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
-</div>
-
-
 ---
 
 <p align="center">
