@@ -29,11 +29,3 @@ I am currently working as a **Trainee Software Developer** in Advantest intercon
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
-
----
-
----
-
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Huzaifa309&icon=0&color=0" />
-</p>
