@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently working as a **Trainee Software Developer** in Advantest interconnect solutions , building critical components and performing AI automation.
 
 <div align="center">
@@ -7,7 +7,7 @@ I am currently working as a **Trainee Software Developer** in Advantest intercon
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
