@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a **C++ backend developer** in a tech startup, building critical backend infrastructure and libraries for microservices.
+I am currently working as a **Trainee Software Developer** in Advantest interconnect solutions , building critical components and performing AI automation.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="100%"/>
