@@ -8,7 +8,7 @@ I am currently working as a **Trainee Software Developer** in Advantest Intercon
 ---
 
 # Expertise:
-## Programming Language
+## Programming Language:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-%231E8BCC.svg?style=for-the-badge&logo=tcl&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%239239E3.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
