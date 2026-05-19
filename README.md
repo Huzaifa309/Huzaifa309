@@ -1,5 +1,5 @@
 # About Me:
-I am currently working as a **Software Engineer** in Avanza Innovations as an implementation engineer. I am primarily concerned with deployment, configuration and integration of Avanza's tool and services in banks accross Pakistan.
+I am currently working as a **Software Engineer** in Avanza Solutions in implementation domain. I am primarily concerned with deployment, configuration and integration of Avanza's tool and services in banks accross Pakistan.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="100%"/>
@@ -10,10 +10,11 @@ I am currently working as a **Software Engineer** in Avanza Innovations as an im
 # Expertise:
 ## Programming Language:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Tcl](https://img.shields.io/badge/Tcl-%231E8BCC.svg?style=for-the-badge&logo=tcl&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%239239E3.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Tcl](https://img.shields.io/badge/Tcl-%231E8BCC.svg?style=for-the-badge&logo=tcl&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Dev tools:
