@@ -1,5 +1,5 @@
 # About Me:
-I am currently working as a **Trainee Software Developer** in Advantest Interconnect Solutions (part of Advantest America), building tools/macros aided in designining schematic and performing AI automation.
+I am currently working as a **Software Engineer** in Avanza Innovations as an implementation engineer. I am primarily concerned with deployment, configuration and integration of Avanza's tool and services in banks accross Pakistan.
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/developer.gif" width="100%"/>
